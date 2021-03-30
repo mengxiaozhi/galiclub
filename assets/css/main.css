@@ -4429,3 +4429,23 @@
 			}
 
 		}
+		.newplayer {
+			padding-bottom: 80%;
+			position: relative;
+			width: 100%;
+		}
+		.video-player {
+			width: 100%;
+			position: absolute;
+			height: 100%;
+		} 
+		/*视频封面*/
+		.img-video {
+			background-size: cover;
+			border-radius: 4px;
+			display: block;
+			width: 160px;
+			height: 100px;
+			overflow: hidden;
+			position: relative;
+		}
